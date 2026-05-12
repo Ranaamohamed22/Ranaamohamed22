@@ -27,4 +27,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=powerbi" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=excel" alt="excel" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mssql" alt="mssql" width="40" height="40"/>
+  </a>
+</p>

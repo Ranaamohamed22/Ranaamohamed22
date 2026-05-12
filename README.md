@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ranaamohamed805@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1YMYH2KrpI2LNQbDchaLQwZh-4B1sCFry/view?usp=sharing](https://drive.google.com/file/d/1wrTMmX8C2Ns3kikmpVxzhQep6pSH8qyV/view?usp=sharing)**
+- 📄 Know about my experiences *https://drive.google.com/file/d/1W8fegzqi3Xq21AckddW_pEynFwwRwCzt/view?usp=sharing*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
